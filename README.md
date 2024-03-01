@@ -1,0 +1,2 @@
+hui
+print("hi ok")
